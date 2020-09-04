@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "542278730639",
+    "firebase_url": "https://techthis-a982e.firebaseio.com",
+    "project_id": "techthis-a982e",
+    "storage_bucket": "techthis-a982e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542278730639:android:034abc19a44523118a41fa",
+        "android_client_info": {
+          "package_name": "com.ictgyan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542278730639-ab60ki72fjkmu53mfmrn1emjkvplajiv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDzq2BWKq2__P00wdhiLc1tMzqcfuN1BA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542278730639-ab60ki72fjkmu53mfmrn1emjkvplajiv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
